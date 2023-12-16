@@ -1,0 +1,31 @@
+#demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+
+}
+
+h1{
+    font-weight:900;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    background-color: green;
+}
